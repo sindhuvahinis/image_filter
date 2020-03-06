@@ -98,7 +98,7 @@ checkerboard size=10
 #### Photo by Nadine Primeau on Unsplash
 ![Food][FOOD]
 
-####Icons from [Remix Icon](https://remixicon.com/)
+#### Icons from [Remix Icon](https://remixicon.com/)
 ![blur] ![sepia] ![MOSAIC] ![SHARPEN] ![DITHER] ![FLAGS] ![RAINBOW] ![CHECKERBOARD] ![GREYSCALE]
 
 
