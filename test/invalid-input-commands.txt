@@ -1,0 +1,2 @@
+blur
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/blurred/food.jpg

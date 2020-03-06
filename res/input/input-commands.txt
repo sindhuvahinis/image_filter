@@ -1,0 +1,10 @@
+checkerboard size=10
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/checkerboard/checkerboard.png
+rainbow side=50 other=700 orientation=vertical
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/rainbow/rainbow.jpg
+greece width=270
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/flags/greece-flag.png
+france width=300
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/sharpened/france-flag.png
+switzerland width=320
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/sharpened/switzerland-flag.png

@@ -1,0 +1,31 @@
+load /Users/darshangowda/IdeaProjects/Assignment7/res/input/plate.jpg
+blur
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/blurred/plate.jpg
+sharpen
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/sharpened/plate.jpg
+sepia
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/sepiatone/plate.jpg
+grey
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/greyscale/plate.jpg
+dither
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/dither/plate.jpg
+mosaic seeds=1000
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/mosaic/plate-1000.jpg
+mosaic seeds=4000
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/mosaic/plate-4000.jpg
+mosaic seeds=8000
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/mosaic/plate-8000.jpg
+mosaic seeds=15000
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/mosaic/plate-15000.jpg
+checkerboard size=10
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/checkerboard/checkerboard.jpg
+rainbow side=50 other=700 orientation=horizontal
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/rainbow/rainbow-horizontal.jpg
+rainbow side=50 other=700 orientation=vertical
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/rainbow/rainbow-vertical.jpg
+greece width=270
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/flags/greece-flag.jpg
+france width=300
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/flags/france-flag.jpg
+switzerland width=320
+save /Users/darshangowda/IdeaProjects/Assignment7/res/output/flags/switzerland-flag.jpg
